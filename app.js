@@ -38,7 +38,7 @@ const server = http.createServer((req, res)=>{
             max-width: 500px;
         }
     </style>
-    <title>Document</title>
+    <title>Addiena Concepts</title>
 </head>
 <body>
     <div>
@@ -50,7 +50,7 @@ const server = http.createServer((req, res)=>{
         <p>Instagram: @addienaliving @addiena.rtw @styledbyaddiena</p>
     </div> 
 </body>
-</html>`)
+</html>`);
 });
 
 server.listen(PORT, ()=>{
